@@ -1,0 +1,12 @@
+dist/
+*.pyc
+.venv
+.coverage
+coverage.xml
+*_cache/
+*.cast
+main.py
+.xml
+old_README.md
+token.txt
+__pycache__
